@@ -62,7 +62,7 @@
       </dia:composite>
     </dia:attribute>
   </dia:diagramdata>
-  <dia:layer name="Background" visible="true">
+  <dia:layer name="Background" visible="true" active="true">
     <dia:object type="UML - Class" version="0" id="O0">
       <dia:attribute name="obj_pos">
         <dia:point val="7,9"/>
@@ -7753,7 +7753,7 @@ Justin Hall#</dia:string>
         <dia:point val="2.715,-3"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-5.105,-9.05;3.465,-1.4"/>
+        <dia:rectangle val="-5.105,-9.05;3.465,-2.2"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
@@ -7824,7 +7824,7 @@ Justin Hall#</dia:string>
         <dia:point val="2.715,-3"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="1.965,-8.65;7.915,-1.4"/>
+        <dia:rectangle val="1.965,-8.65;7.915,-2.2"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
@@ -7895,7 +7895,7 @@ Justin Hall#</dia:string>
         <dia:point val="-0.4961,9.7"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-1.03055,5.15;2.915,11.3"/>
+        <dia:rectangle val="-1.03055,5.15;2.915,10.5"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
@@ -7964,7 +7964,7 @@ Justin Hall#</dia:string>
         <dia:point val="-19.72,40.8831"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-21.835,30.2001;-18.54,42.4831"/>
+        <dia:rectangle val="-21.835,30.2001;-18.54,41.6831"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
@@ -8551,5 +8551,4 @@ Justin Hall#</dia:string>
       <dia:attribute name="templates"/>
     </dia:object>
   </dia:layer>
-  <dia:layer name="New layer 1" visible="true" active="true"/>
 </dia:diagram>
